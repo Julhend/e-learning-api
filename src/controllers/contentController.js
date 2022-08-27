@@ -13,7 +13,7 @@ const createNewContent = catchAsync(async (req, res) => {
   if (req.user.role === 'student') throw new ApiError(httpStatus.INTERNAL_SERVER_ERROR, `Your role is ${req.user.role}, you can't ude this feature`);
   await getSubjectById(body.subjectId);
   if (req.file) {
-    body.fileOne = `uploads/${req.file.originalname.replaceAll(' ', '%20')}`;
+    body.fileOne = `uploads/${req.file.originalname}`;
   }
   const data = await createContent(body);
   res.sendWrapped(data, httpStatus.CREATED);
@@ -31,7 +31,7 @@ const updateContent = catchAsync(async (req, res) => {
   if (req.user.role === 'student') throw new ApiError(httpStatus.INTERNAL_SERVER_ERROR, `Your role is ${req.user.role}, you can't ude this feature`);
   let filePath = body.fileOne;
   if (req.file) {
-    filePath = `uploads/${req.file.originalname.replaceAll(' ', '%20')}`;
+    filePath = `uploads/${req.file.originalname}`;
   }
   const data = await updateContentById(contentId, body);
   res.sendWrapped(data, httpStatus.OK);
