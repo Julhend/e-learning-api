@@ -1,0 +1,670 @@
+========== 2021-11-23 11:25:44 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:25:44 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:25:44 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:25:44 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:29:51 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:29:52 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:29:52 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:29:52 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:31:28 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:31:28 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:31:28 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:31:28 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:31:56 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:31:56 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:31:56 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 11:31:56 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 14:23:11 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 14:23:11 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 14:23:12 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2021-11-23 14:23:12 ==========
+Error: Error: bind EADDRINUSE null:3000
+    at listenOnPrimaryHandle (node:net:1401:18)
+    at rr (node:internal/cluster/child:155:12)
+    at Worker.<anonymous> (node:internal/cluster/child:109:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:402:35)
+    at emit (node:internal/child_process:917:12)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+
+========== 2022-08-24 13:51:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:52:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:41 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:41 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:42 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:42 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:43 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:43 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:43 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:43 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:43 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:43 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:43 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:43 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:44 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:48 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:50 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:53 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:55 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:55 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:55 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:55 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:55 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:55 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:55 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:53:55 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:45 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:46 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:47 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:48 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:48 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-24 13:58:48 ==========
+Error: Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1187:16)
+
+========== 2022-08-26 15:15:26 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:26 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:26 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:26 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:26 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:37 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:37 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:37 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:37 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+
+========== 2022-08-26 15:15:37 ==========
+Error: Error: write EPIPE
+    at process.target._send (node:internal/child_process:866:20)
+    at process.target.send (node:internal/child_process:739:19)
+    at sendHelper (node:internal/cluster/utils:28:15)
+    at send (node:internal/cluster/child:216:10)
+    at EventEmitter.cluster._setupWorker (node:internal/cluster/child:51:3)
+    at initializeClusterIPC (node:internal/bootstrap/pre_execution:415:13)
+    at prepareMainThreadExecution (node:internal/bootstrap/pre_execution:75:3)
+    at node:internal/main/run_main_module:7:1
+

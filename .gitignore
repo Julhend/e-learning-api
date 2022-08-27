@@ -1,0 +1,14 @@
+# IDE files
+.idea/
+
+# node files
+node_modules/
+package-lock.json
+
+# configuration files
+.env
+# public/
+sonar-project.properties
+.sannerwork/
+.scannerwork/.sonar_lock
+.scannerwork/report-task.txt
