@@ -40,8 +40,14 @@ const login = catchAsync(async (req, res) => {
     identity,
     password,
   );
+  const role = user.role.roleName;
+  console.log();
   const token = await tokenService.generateAuthTokens(user);
-  res.sendWrapped(token, httpStatus.OK);
+  const data = {
+    role,
+    token,
+  };
+  res.sendWrapped(data, httpStatus.OK);
 });
 
 const refreshTokens = catchAsync(async (req, res) => {
