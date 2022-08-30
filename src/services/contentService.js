@@ -3,6 +3,7 @@ const { Content } = require('../models/Content');
 const { Role } = require('../models/Role');
 const { Subject } = require('../models/Subject');
 const { User } = require('../models/User');
+const { Comment } = require('../models/Comment');
 const ApiError = require('../utils/ApiError');
 
 const createContent = async (contentBody) => Content.create(contentBody);
@@ -18,7 +19,7 @@ const getContentById = async (contentId) => {
 const getAllContent = async (query) => {
   const data = await Content.findAll({
     where: query,
-    include: [{ model: User, include: [{ model: Role }] }, { model: Subject }],
+    include: [{ model: User, include: [{ model: Role }] }, { model: Subject }, { model: Comment, include: [{ model: User }] }],
   });
   if (!data.length) throw new ApiError(httpStatus.NOT_FOUND, 'Content not found.');
   return data;
