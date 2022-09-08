@@ -1,4 +1,6 @@
 const httpStatus = require('http-status');
+const { Class } = require('../models/Class');
+const { Role } = require('../models/Role');
 const { User } = require('../models/User');
 const ApiError = require('../utils/ApiError');
 
@@ -44,7 +46,7 @@ const getUserById = async (userId, opts = {}) => {
       where: {
         id: userId,
       },
-      ...opts,
+     include:[{model:Role},{model:Class}]
     },
   );
   if (!user) throw new ApiError(httpStatus.NOT_FOUND, 'User not found.');

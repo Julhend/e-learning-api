@@ -1,6 +1,8 @@
 const httpStatus = require('http-status');
 const { Class } = require('../models/Class');
+const { User } = require('../models/User');
 const ApiError = require('../utils/ApiError');
+const { getUserById } = require('./userService');
 
 
 const createClass = async (classBody) => Class.create(classBody);
@@ -13,11 +15,22 @@ const getClassById = async (classId) => {
 };
 
 const getClass = async (query) => {
-  console.log(query);
   const data = await Class.findAll({
     where: query,
   });
   if (!data.length) throw new ApiError(httpStatus.NOT_FOUND, 'Class not found.');
+  return data;
+};
+const getClassStudent = async (userId) => {
+  const user = await getUserById(userId)
+ console.log(user.classId);
+
+  const data = await Class.findOne({
+  where:{
+    id: user.classId
+  }
+  });
+  if (!data) throw new ApiError(httpStatus.NOT_FOUND, 'Class not found.');
   return data;
 };
 
@@ -42,4 +55,5 @@ module.exports = {
   getClass,
   updateClassById,
   deleteClassById,
+  getClassStudent
 };

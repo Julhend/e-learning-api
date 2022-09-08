@@ -44,6 +44,9 @@ const setupSequelizeAssociations = async () => {
   Comment.belongsTo(Content);
   Content.hasMany(Comment);
 
+  User.belongsTo(Class);
+  Class.hasMany(User);
+
   // finally sync sequelize
   // await sequelize.sync();
 };

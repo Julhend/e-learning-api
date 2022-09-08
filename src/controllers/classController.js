@@ -1,5 +1,5 @@
 const httpStatus = require('http-status');
-const { createClass, getClass, updateClassById, deleteClassById } = require('../services/clasService');
+const { createClass, getClass, updateClassById, deleteClassById, getClassStudent } = require('../services/clasService');
 
 const catchAsync = require('../utils/catchAsync');
 
@@ -10,8 +10,14 @@ const createNewClass = catchAsync(async (req, res) => {
 });
 
 const getCLasses = catchAsync(async (req, res) => {
-  const { query } = req;
-  const data = await getClass(query);
+  const { query,user } = req;
+  let data
+  if(user.role ==='teacher'){
+
+     data = await getClass(query);
+  } else {
+    data = await getClassStudent(user.id)
+  }
   res.sendWrapped(data, httpStatus.OK);
 });
 

@@ -7,12 +7,14 @@ const tokenService = require('../services/tokenService');
 const { tokenTypes } = require('../config/tokens');
 const { googleAuth } = require('../utils/googleOauth');
 const { getRoleById, getRoleByName } = require('../services/roleService');
+const { getClassById } = require('../services/clasService');
 
 const register = catchAsync(async (req, res) => {
   const userBody = req.body;
   const role = userBody.roleName;
   const checkRole = await getRoleByName(role);
   userBody.roleId = checkRole.id;
+  await getClassById (userBody.classId)
   const user = await userService.createUser(userBody);
   res.sendWrapped(user, httpStatus.CREATED);
 });
