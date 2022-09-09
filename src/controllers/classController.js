@@ -9,7 +9,7 @@ const createNewClass = catchAsync(async (req, res) => {
   res.sendWrapped(data, httpStatus.CREATED);
 });
 
-const getCLasses = catchAsync(async (req, res) => {
+const getCLassesStudent = catchAsync(async (req, res) => {
   const { query, user } = req;
   let data
   if (user.role === 'teacher') {
@@ -18,6 +18,13 @@ const getCLasses = catchAsync(async (req, res) => {
   } else {
     data = await getClassStudent(user.id)
   }
+  res.sendWrapped(data, httpStatus.OK);
+});
+
+const getCLasses = catchAsync(async (req, res) => {
+  const { query, user } = req;
+  let data
+    data = await getClass(query);
   res.sendWrapped(data, httpStatus.OK);
 });
 
@@ -46,5 +53,6 @@ module.exports = {
   getCLasses,
   updateClass,
   deleteClass,
-  getCLassesPublic
+  getCLassesPublic,
+  getCLassesStudent
 };
