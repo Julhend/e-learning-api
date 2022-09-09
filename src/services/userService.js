@@ -27,12 +27,17 @@ const createUser = async (userBody) => {
  * @param {object} opts
  * @returns {Promise<User | null>}
  */
-const getUserByEmail = async (email, opts = {}) => User.findOne({
-  where: {
-    email,
-  },
-  ...opts,
-});
+const getUserByEmail = async (email) => {
+  const user = User.findOne({
+    where: {
+      email,
+    },
+    include: [{ model: Class }, { model: Role }]
+  });
+
+  if (!user) throw new ApiError(httpStatus.NOT_FOUND, 'User not found.');
+  return user;
+}
 
 /**
  * Get user by id
@@ -46,7 +51,7 @@ const getUserById = async (userId, opts = {}) => {
       where: {
         id: userId,
       },
-     include:[{model:Role},{model:Class}]
+      include: [{ model: Role }, { model: Class }]
     },
   );
   if (!user) throw new ApiError(httpStatus.NOT_FOUND, 'User not found.');

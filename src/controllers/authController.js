@@ -14,7 +14,10 @@ const register = catchAsync(async (req, res) => {
   const role = userBody.roleName;
   const checkRole = await getRoleByName(role);
   userBody.roleId = checkRole.id;
-  await getClassById (userBody.classId)
+
+  if(userBody.classId){
+    await getClassById (userBody.classId)
+  }
   const user = await userService.createUser(userBody);
   res.sendWrapped(user, httpStatus.CREATED);
 });

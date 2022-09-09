@@ -9,7 +9,8 @@ const router = express.Router();
 router.post('/google', authController.loginByGoogle);
 router.post(
   '/register',
-  authController.register,
+  validate(authValidation.register),
+  authController.register, 
 );
 router.post('/login', validate(authValidation.login), authController.login);
 
