@@ -11,6 +11,7 @@ router.post(
 );
 
 router.get('/', auth, classController.getCLasses);
+router.get('/public', classController.getCLasses);
 
 router.patch(
   '/:classId',
