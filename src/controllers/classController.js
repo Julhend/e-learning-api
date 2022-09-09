@@ -10,14 +10,22 @@ const createNewClass = catchAsync(async (req, res) => {
 });
 
 const getCLasses = catchAsync(async (req, res) => {
-  const { query,user } = req;
+  const { query, user } = req;
   let data
-  if(user.role ==='teacher'){
+  if (user.role === 'teacher') {
 
-     data = await getClass(query);
+    data = await getClass(query);
   } else {
     data = await getClassStudent(user.id)
   }
+  res.sendWrapped(data, httpStatus.OK);
+});
+
+const getCLassesPublic = catchAsync(async (req, res) => {
+  const { query } = req;
+  let data
+
+  data = await getClass(query);
   res.sendWrapped(data, httpStatus.OK);
 });
 
@@ -38,4 +46,5 @@ module.exports = {
   getCLasses,
   updateClass,
   deleteClass,
+  getCLassesPublic
 };
