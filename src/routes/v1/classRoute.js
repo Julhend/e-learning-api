@@ -11,7 +11,7 @@ router.post(
 );
 
 router.get('/', auth, classController.getCLasses);
-router.get('/student', auth, classController.getCLassesStudent);
+// router.get('/student', auth, classController.getCLassesStudent);
 router.get('/public', classController.getCLassesPublic);
 
 router.patch(

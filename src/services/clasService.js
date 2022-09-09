@@ -23,9 +23,7 @@ const getClass = async (query) => {
 };
 const getClassStudent = async (userId) => {
   const user = await getUserById(userId)
- console.log(user.classId);
-
-  const data = await Class.findOne({
+  const data = await Class.findAll({
   where:{
     id: user.classId
   }

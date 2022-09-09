@@ -24,7 +24,12 @@ const getCLassesStudent = catchAsync(async (req, res) => {
 const getCLasses = catchAsync(async (req, res) => {
   const { query, user } = req;
   let data
+  if (user.role === 'teacher') {
+
     data = await getClass(query);
+  } else {
+    data = await getClassStudent(user.id)
+  }
   res.sendWrapped(data, httpStatus.OK);
 });
 
